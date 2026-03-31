@@ -1,6 +1,6 @@
 # The Pincus Stack
 
-Claude skills inspired by [Mark Pincus](https://x.com/markpinc)'s **"Life at the Speed of Play"** — the product-building frameworks that powered Zynga and shaped a generation of consumer products.
+Claude skills inspired by [Mark Pincus](https://x.com/markpinc)' upcoming book, **"[Life at the Speed of Play](https://www.lifeatthespeedofplay.com/)"** (Harpercollins) — an unconventional, hands-on guide to turning ideas into products that matter—and that people love from the legendary Silicon Valley pioneer, founder of Zynga, and creator of Stanford Graduate School of Business’s product management course.
 
 This is any product maker's AI toolkit. Each skill channels a specific framework from Mark's book into a practical, interactive tool you can use with Claude.
 
