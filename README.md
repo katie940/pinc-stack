@@ -50,8 +50,8 @@ Copy the skill folders into your Claude skills directory, or just copy the GitHu
 
 ## Inspired By
 
-**"Life at the Speed of Play"** by Mark Pincus (Harpercollins) -- coming out June 23rd, 2026. The frameworks, terminology, and examples in these skills are drawn from Mark's book about
+**"Life at the Speed of Play"** by Mark Pincus (HarperCollins), which launched June 23rd, 2026. The frameworks, terminology, and examples in these skills are drawn from Mark's book about life, product making, and entrepreneurship.
 
-Pre-order your copy today at: [https://www.lifeatthespeedofplay.com/.]([url](https://www.lifeatthespeedofplay.com/))
+Order your copy today at: [https://www.lifeatthespeedofplay.com/.]([url](https://www.lifeatthespeedofplay.com/))
 
 Built by Katie Goldstein.
