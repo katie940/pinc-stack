@@ -1,6 +1,6 @@
 # The Pincus Stack
 
-Claude skills inspired by [Mark Pincus](https://x.com/markpinc)' upcoming book, **"[Life at the Speed of Play](https://www.lifeatthespeedofplay.com/)"** (Harpercollins) — an unconventional, hands-on guide to turning ideas into products that matter—and that people love from the legendary Silicon Valley pioneer, founder of Zynga, and creator of Stanford Graduate School of Business’s product management course.
+Claude skills inspired by [Mark Pincus](https://x.com/markpinc)' debut book, **"[Life at the Speed of Play](https://www.lifeatthespeedofplay.com/)"** (HarperCollins) — an unconventional, hands-on guide to turning ideas into products that matter—and that people love from the legendary Silicon Valley pioneer, founder of Zynga, and creator of Stanford Graduate School of Business’s product management course.
 
 This is any product maker's AI toolkit. Each skill channels a specific framework from Mark's book into a practical, interactive tool you can use with Claude.
 
